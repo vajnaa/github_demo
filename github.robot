@@ -6,6 +6,6 @@ Library           OperatingSystem
 Library           Collections
 
 *** Test Cases ***
-Open Browser
+Elso teszt
     [Documentation]    Ez egy prezentációs célból készült teszteset a RobotFramework képességeinek szemléltetésére webes környzetben Adatbázis kapcsolattal.
     Open Browser  www.index.hu  firefox

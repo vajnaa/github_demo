@@ -1,5 +1,5 @@
 *** Settings ***
-Library           ExcelLibrary
+Library           Selenium2Library
 Library           DateTime
 Library           Pdf2TextLibrary
 Library           OperatingSystem
